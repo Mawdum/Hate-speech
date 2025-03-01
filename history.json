@@ -1,0 +1,50 @@
+[
+    {
+        "original_text": "สวัสดี",
+        "translated_text": "hello",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:19:57"
+    },
+    {
+        "original_text": "I hate your mother",
+        "translated_text": "I hate your mother",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:20:16"
+    },
+    {
+        "original_text": "ฉันเกลียดแม่ของเธอ",
+        "translated_text": "I hate your mother",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:20:47"
+    },
+    {
+        "original_text": "สวัสดี",
+        "translated_text": "hello",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:23:24"
+    },
+    {
+        "original_text": "กูเกลียดแม่ของมึง",
+        "translated_text": "I hate your mother.",
+        "prediction": "🚨 Hate Speech",
+        "time": "2025-03-01 18:26:00"
+    },
+    {
+        "original_text": "เธอน่ารักจัง",
+        "translated_text": "She is so cute",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:26:12"
+    },
+    {
+        "original_text": "แม่งเอ้ย",
+        "translated_text": "Gosh",
+        "prediction": "✅ Neither",
+        "time": "2025-03-01 18:26:24"
+    },
+    {
+        "original_text": "หี",
+        "translated_text": "pussy",
+        "prediction": "⚠️ Offensive Language",
+        "time": "2025-03-01 18:26:34"
+    }
+]
